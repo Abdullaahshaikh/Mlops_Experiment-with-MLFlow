@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Cloud Computing/MLOPS/Mlops_Experiment-with-MLFlow/mlruns/216082041727764475/52cce8cad4ff42fa846134d5c0ba234b/artifacts
+end_time: 1773608256365
+entry_point_name: ''
+experiment_id: '216082041727764475'
+lifecycle_stage: active
+run_id: 52cce8cad4ff42fa846134d5c0ba234b
+run_name: handsome-frog-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773608256248
+status: 3
+tags: []
+user_id: Zain

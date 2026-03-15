@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Cloud Computing/MLOPS/Mlops_Experiment-with-MLFlow/mlruns/216082041727764475/28990e5c3a2a485abffba2d84b64daa2/artifacts
+end_time: 1773608256235
+entry_point_name: ''
+experiment_id: '216082041727764475'
+lifecycle_stage: active
+run_id: 28990e5c3a2a485abffba2d84b64daa2
+run_name: sedate-fowl-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773608256164
+status: 3
+tags: []
+user_id: Zain

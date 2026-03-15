@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Cloud Computing/MLOPS/Mlops_Experiment-with-MLFlow/mlruns/216082041727764475/5dbc34f34d5847c99e15019879d34bac/artifacts
+end_time: 1773608256513
+entry_point_name: ''
+experiment_id: '216082041727764475'
+lifecycle_stage: active
+run_id: 5dbc34f34d5847c99e15019879d34bac
+run_name: vaunted-jay-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773608256450
+status: 3
+tags: []
+user_id: Zain

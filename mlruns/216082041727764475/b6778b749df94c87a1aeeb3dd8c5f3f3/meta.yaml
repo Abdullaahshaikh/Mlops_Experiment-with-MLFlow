@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Cloud Computing/MLOPS/Mlops_Experiment-with-MLFlow/mlruns/216082041727764475/b6778b749df94c87a1aeeb3dd8c5f3f3/artifacts
+end_time: 1773608255969
+entry_point_name: ''
+experiment_id: '216082041727764475'
+lifecycle_stage: active
+run_id: b6778b749df94c87a1aeeb3dd8c5f3f3
+run_name: marvelous-robin-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773608255911
+status: 3
+tags: []
+user_id: Zain

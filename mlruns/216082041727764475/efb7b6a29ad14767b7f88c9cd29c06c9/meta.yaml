@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Cloud Computing/MLOPS/Mlops_Experiment-with-MLFlow/mlruns/216082041727764475/efb7b6a29ad14767b7f88c9cd29c06c9/artifacts
+end_time: 1773608256651
+entry_point_name: ''
+experiment_id: '216082041727764475'
+lifecycle_stage: active
+run_id: efb7b6a29ad14767b7f88c9cd29c06c9
+run_name: inquisitive-vole-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773608256592
+status: 3
+tags: []
+user_id: Zain

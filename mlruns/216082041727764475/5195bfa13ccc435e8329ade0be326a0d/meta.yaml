@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Cloud Computing/MLOPS/Mlops_Experiment-with-MLFlow/mlruns/216082041727764475/5195bfa13ccc435e8329ade0be326a0d/artifacts
+end_time: 1773608269349
+entry_point_name: ''
+experiment_id: '216082041727764475'
+lifecycle_stage: active
+run_id: 5195bfa13ccc435e8329ade0be326a0d
+run_name: gifted-shoat-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773608236650
+status: 3
+tags: []
+user_id: Zain

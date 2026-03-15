@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Cloud Computing/MLOPS/Mlops_Experiment-with-MLFlow/mlruns/216082041727764475/484a0ff1f2d946259f8353b226792c86/artifacts
+end_time: 1773608255827
+entry_point_name: ''
+experiment_id: '216082041727764475'
+lifecycle_stage: active
+run_id: 484a0ff1f2d946259f8353b226792c86
+run_name: rebellious-colt-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773608255700
+status: 3
+tags: []
+user_id: Zain

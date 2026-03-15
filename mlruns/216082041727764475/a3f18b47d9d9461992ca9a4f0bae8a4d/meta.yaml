@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Cloud Computing/MLOPS/Mlops_Experiment-with-MLFlow/mlruns/216082041727764475/a3f18b47d9d9461992ca9a4f0bae8a4d/artifacts
+end_time: 1773608300385
+entry_point_name: ''
+experiment_id: '216082041727764475'
+lifecycle_stage: active
+run_id: a3f18b47d9d9461992ca9a4f0bae8a4d
+run_name: awesome-ray-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773608300318
+status: 3
+tags: []
+user_id: Zain

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Cloud Computing/MLOPS/Mlops_Experiment-with-MLFlow/mlruns/216082041727764475/1b81475cea2741e7b74ed7aa2c7ea00c/artifacts
+end_time: 1773608255905
+entry_point_name: ''
+experiment_id: '216082041727764475'
+lifecycle_stage: active
+run_id: 1b81475cea2741e7b74ed7aa2c7ea00c
+run_name: incongruous-ray-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773608255832
+status: 3
+tags: []
+user_id: Zain

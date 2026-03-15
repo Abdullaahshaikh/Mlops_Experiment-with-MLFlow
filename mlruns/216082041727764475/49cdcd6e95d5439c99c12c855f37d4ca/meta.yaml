@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Cloud Computing/MLOPS/Mlops_Experiment-with-MLFlow/mlruns/216082041727764475/49cdcd6e95d5439c99c12c855f37d4ca/artifacts
+end_time: 1773608300159
+entry_point_name: ''
+experiment_id: '216082041727764475'
+lifecycle_stage: active
+run_id: 49cdcd6e95d5439c99c12c855f37d4ca
+run_name: sassy-robin-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773608300092
+status: 3
+tags: []
+user_id: Zain

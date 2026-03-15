@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Cloud Computing/MLOPS/Mlops_Experiment-with-MLFlow/mlruns/216082041727764475/43e646868f6f492a9bbe565810219a93/artifacts
+end_time: 1773608300233
+entry_point_name: ''
+experiment_id: '216082041727764475'
+lifecycle_stage: active
+run_id: 43e646868f6f492a9bbe565810219a93
+run_name: mysterious-goat-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773608300164
+status: 3
+tags: []
+user_id: Zain

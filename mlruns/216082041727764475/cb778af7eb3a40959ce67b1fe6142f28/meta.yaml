@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Cloud Computing/MLOPS/Mlops_Experiment-with-MLFlow/mlruns/216082041727764475/cb778af7eb3a40959ce67b1fe6142f28/artifacts
+end_time: 1773608300464
+entry_point_name: ''
+experiment_id: '216082041727764475'
+lifecycle_stage: active
+run_id: cb778af7eb3a40959ce67b1fe6142f28
+run_name: suave-ram-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773608300390
+status: 3
+tags: []
+user_id: Zain

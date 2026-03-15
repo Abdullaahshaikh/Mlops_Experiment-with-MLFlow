@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Cloud Computing/MLOPS/Mlops_Experiment-with-MLFlow/mlruns/216082041727764475/ff29f970242f45b8b27bef7d228e5209/artifacts
+end_time: 1773608300654
+entry_point_name: ''
+experiment_id: '216082041727764475'
+lifecycle_stage: active
+run_id: ff29f970242f45b8b27bef7d228e5209
+run_name: unleashed-pig-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773608300561
+status: 3
+tags: []
+user_id: Zain
